@@ -16,7 +16,17 @@
         android:text="Button"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.562" />
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="124dp"
+        android:layout_height="51dp"
+        android:backgroundTint="@color/secundario"
+        android:text="Button"
+        tools:layout_editor_absoluteX="150dp"
+        tools:layout_editor_absoluteY="139dp" />
 </androidx.constraintlayout.widget.ConstraintLayout>
