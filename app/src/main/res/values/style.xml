@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="botones">
+        <item name="android:layout_width">@dimen/botonalto</item>
+        <item name="android:layout_height">@dimen/botonLargo</item>
+        <item name="backgroundTint">@color/cuaternario</item>
+        <item name="android:textColor">@color/terciario</item>
+    </style>
+</resources>
